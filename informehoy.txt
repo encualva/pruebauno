@@ -1,3 +1,4 @@
 En el día de hoy los temas tratados son:
 
-* Qué es un sistema de control de versiones.
+* Qué es un sistema de control de versiones
+* Cómo ignorar archivos para no ser comprometidos en el área de trabajo
